@@ -1,0 +1,36 @@
+.inf{
+	
+	right: 50%;
+	width: 500px;
+	margin:0 35%;
+	height: 400px;
+	left: 50%;
+	position: ;
+	border: 1px solid #0a0909;
+	background: #0a0909;
+	border-radius: 15px;
+}
+#h{
+	font-family: Baskerville Old Face;
+	position: relative;
+	color: white;
+	font-size: 25px;
+	font-family: cursive;
+	left: 20%;
+	right: 50%;
+	margin: 5% 0%;
+	text-shadow:  0 0 7px #6726eb,
+      0 0 10px #6726eb,
+      0 0 21px #6726eb,
+      0 0 42px #6726eb,
+      0 0 82px #6726eb,
+      0 0 92px #6726eb,
+      0 0 102px #6726eb,
+      0 0 151px #6726eb;
+}
+b {
+	font-size: 30px;
+	font-family: Bahnschrift Condensed;
+	color: white;
+	padding: 5px 15px;
+}
