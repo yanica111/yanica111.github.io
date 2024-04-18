@@ -1,0 +1,27 @@
+#inf{
+	width: 50%;
+	height: 350px;
+	background: #0a0909;
+	border: 1px solid #0a0909;
+	border-radius: 10px;
+	margin-left: 45%;
+	margin-top: -40%;
+	padding: 5px 15px;
+}
+p{
+	color: white;
+	font-family: Bahnschrift Condensed;
+	font-size: 21px;
+}
+b{
+	text-shadow:  0 0 7px #6726eb,
+      0 0 10px #6726eb,
+      0 0 21px #6726eb,
+      0 0 42px #6726eb,
+      0 0 82px #6726eb,
+      0 0 92px #6726eb,
+      0 0 102px #6726eb,
+      0 0 151px #6726eb;
+
+    font-size: 25px;
+}
